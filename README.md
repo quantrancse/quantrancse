@@ -60,7 +60,7 @@
 ![VSCode Badge](https://img.shields.io/badge/-vscode-007ACC?style=flat-square&logo=visual-studio-code&labelColor=grey&logoColor=white)
 ![PyCharm Badge](https://img.shields.io/badge/-pycharm-181717?style=flat-square&logo=pycharm&labelColor=grey&logoColor=white)
 
-### FUN FACT
+### FUN FACTS
 
 - ⚡️ I work on the system to avoid programming.
 - ⚡️ I began using Linux when I was 15.
