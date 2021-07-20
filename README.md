@@ -75,7 +75,7 @@
 - 🖱️ Fuhlen G90 EVO
 
 #### Monitor
-- 🖥️ AOC 24G2
+- 🖥️ AOC 24G2 24" IPS 144Hz
 
 ### FUN FACTS
 - ⚡️ I work on the system to avoid programming.
