@@ -13,9 +13,9 @@
 - 💬 Ask me anything i.e personal questions, work, life, whatever,... or ask me about Windows, Android, and Linux.
 - 📫 Reach me: [@quantrancse - Telegram](https://t.me/quantrancse)
 
-### OS, Languages, Technologies and IDEs:
+### OS, Languages, Technologies and IDEs
 
-#### OS:
+#### OS
 
 ![Arch Badge](https://img.shields.io/badge/-arch-1793D1?style=flat-square&logo=arch-linux&labelColor=grey&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/-ubuntu-E95420?style=flat-square&logo=ubuntu&labelColor=grey&logoColor=white)
@@ -25,12 +25,12 @@
 ![Windows Badge](https://img.shields.io/badge/-windows-0078D6?style=flat-square&logo=windows&labelColor=grey&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/-android-3DDC84?style=flat-square&logo=android&labelColor=grey&logoColor=white)
 
-#### Languages:
+#### Languages
 
 ![Python Badge](https://img.shields.io/badge/-python-blue?style=flat-square&logo=python&labelColor=grey&logoColor=white)
 ![Bash Badge](https://img.shields.io/badge/-bash-grey?style=flat-square&logo=gnu-bash&labelColor=gray&logoColor=white)
 
-#### Technologies:
+#### Technologies
 
 ![Odoo Badge](https://img.shields.io/badge/-odoo-A24689?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQflBBQOLx5CK26dAAAA6UlEQVQY01WQsS4EYRhFzzf/zDYkQoJFpdGIygNQ065KFLZSeCDeQCNZGiWJN1AIlWwkTGEUopuZHMUMiZuc5t7qnjAQyGmRACRINEDkACQa5thnm5wHJlQkWkBM4sjS33w46tpuOlS19MJLK1UPxIS46Lt644KIq96rr84L4rH65lAsLMR1P9UjyYBN4JaSATUNBS/cAVuQAdFjD9RdkwFPwC7L1AwYUDNkB3jsrqxZqRNnRJz1Wi1dEszFU1WnnnnuVNWxmGOYxBO//yR8Oe4khBBktKywxwYFz1xRkmiJMHrV/8W3SPwAiIWzW5n3ko0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDQtMjBUMTQ6NDc6MjMrMDA6MDBanmHsAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTA0LTIwVDE0OjQ3OjIzKzAwOjAwK8PZUAAAAABJRU5ErkJggg==&labelColor=grey&logoColor=white)
 ![Nginx Badge](https://img.shields.io/badge/-nginx-brightgreen?style=flat-square&logo=nginx&labelColor=grey)
@@ -54,14 +54,30 @@
 ![Git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&labelColor=grey&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&labelColor=grey&logoColor=white)
 
-#### IDEs:
+#### IDEs
 
 ![Vim Badge](https://img.shields.io/badge/-vim-019733?style=flat-square&logo=vim&labelColor=grey&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/-vscode-007ACC?style=flat-square&logo=visual-studio-code&labelColor=grey&logoColor=white)
 ![PyCharm Badge](https://img.shields.io/badge/-pycharm-181717?style=flat-square&logo=pycharm&labelColor=grey&logoColor=white)
 
-### FUN FACTS
+### GEARS
 
+#### Laptop
+- 💻 **Asus Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIE G3x4)
+- 💻 **ThinkPad x250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
+
+#### Keyboard
+- ⌨️ Leopold FC660M PD Blue-Grey Red switch
+- ⌨️ AKKO 3068 World Tour Tokyo Pink switch
+
+#### Mouse
+- 🖱️ Razer DeathAdder V2 Mini
+- 🖱️ Fuhlen G90 EVO
+
+#### Monitor
+- 🖥️ AOC 24G2
+
+### FUN FACTS
 - ⚡️ I work on the system to avoid programming.
 - ⚡️ I began using Linux when I was 15.
 - ⚡️ I'm a fan of AMD and an anti-fan of Apple.
