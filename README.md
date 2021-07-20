@@ -67,8 +67,8 @@
 - 💻 **ThinkPad x250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
 
 #### Keyboard
-- ⌨️ Leopold FC660M PD Blue-Grey Red switch
-- ⌨️ AKKO 3068 World Tour Tokyo Pink switch
+- ⌨️ Leopold FC660M PD Blue-Grey Red Switch
+- ⌨️ AKKO 3068 World Tour Tokyo Pink Switch
 
 #### Mouse
 - 🖱️ Razer DeathAdder V2 Mini
