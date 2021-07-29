@@ -62,13 +62,15 @@
 
 ### GEARS
 
-#### Laptop
+#### Device
 - 💻 **Asus Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIE G3x4)
 - 💻 **ThinkPad x250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
+- 📱 **Redmi Note 10 Pro** (Qualcomm Snapdragon 732G / 8GB LPDDR4X / 128GB UFS 2.2)
+- 📖 **Kindle** (10th Generation / 8GB)
 
 #### Keyboard
-- ⌨️ Leopold FC660M PD Blue-Grey Red Switch
-- ⌨️ AKKO 3068 World Tour Tokyo Pink Switch
+- ⌨️ Leopold FC660M PD Blue-Grey Cherry MX Red Switch
+- ⌨️ AKKO 3068 World Tour Tokyo AKKO Pink Switch
 
 #### Mouse
 - 🖱️ Razer DeathAdder V2 Mini
