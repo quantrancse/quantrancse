@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-#### I'm a Junior DevOps Engineer working in Ho Chi Minh City, Vietnam.
+#### I'm a DevOps Engineer working in Ho Chi Minh City, Vietnam.
 
 ### BIO
 
-- 🎓 I’m currently a 4th-year student (Senior) studying **Computer Science** at Ho Chi Minh City University of Technology, Vietnam.
-- 🏢 I'm currently working at **[Novobi](https://novobi.com)** as a Junior DevOps Engineer.
+- 🏢 I'm currently working at **[Novobi](https://novobi.com)** as a DevOps Engineer.
+- 🎓 I graduated with a bachelor's degree in **Computer Science** from Ho Chi Minh City University of Technology in Vietnam.
 - 🌱 I’m currently learning **System Engineering** and **DevOps Engineering**.
 - 🔥 I have a huge passion for operating systems: Windows, Android, and especially Linux.
 - 🔧 I love customizing and personalizing the Linux desktop environment.
 - 😄 Pronouns: He/Him
 - 💬 Ask me anything i.e personal questions, work, life, whatever,... or ask me about Windows, Android, and Linux.
-- 📫 Reach me: [@quantrancse - Telegram](https://t.me/quantrancse)
+- 📫 Reach me: [@quantrancse](https://quantrancse.github.io/contacts/)
 
 ### OS, Languages, Technologies and IDEs
 
@@ -63,7 +63,8 @@
 ### GEARS
 
 #### Device
-- 💻 **Asus Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIE G3x4)
+- 💻 **Asus ROG Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIe G3x4 NVMe)
+- 💻 **ThinkPad T480** (Intel Core i5 8350U / Intel UHD Graphics 620 / 16GB DDR4 2400MHz / 256GB SSD M.2 PCIe TCG Opal Encryption 2 NVMe)
 - 💻 **ThinkPad X250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
 - 📱 **Redmi Note 10 Pro** (Qualcomm Snapdragon 732G / 8GB LPDDR4X / 128GB UFS 2.2)
 - 📖 **Kindle** (10th Generation / 8GB)
