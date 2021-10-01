@@ -64,9 +64,9 @@
 
 #### Device
 - 💻 **Asus ROG Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIe G3x4 NVMe)
-- 💻 **ThinkPad T480** (Intel Core i5 8350U / Intel UHD Graphics 620 / 16GB DDR4 2400MHz / 256GB SSD M.2 PCIe TCG Opal Encryption 2 NVMe)
-- 💻 **ThinkPad X250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
-- 📱 **Redmi Note 10 Pro** (Qualcomm Snapdragon 732G / 8GB LPDDR4X / 128GB UFS 2.2)
+- 💻 **Lenovo ThinkPad T480** (Intel Core i5 8350U / Intel UHD Graphics 620 / 16GB DDR4 2400MHz / 256GB SSD M.2 PCIe TCG Opal Encryption 2 NVMe)
+- 💻 **Lenovo ThinkPad X250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
+- 📱 **Xiaomi Redmi Note 10 Pro** (Qualcomm Snapdragon 732G / 8GB LPDDR4X / 128GB UFS 2.2)
 - 📖 **Kindle** (10th Generation / 8GB)
 
 #### Keyboard
