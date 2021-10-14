@@ -51,7 +51,7 @@
 ![SonarQube Badge](https://img.shields.io/badge/-sonarqube-4E9BCD?style=flat-square&logo=sonarqube&labelColor=grey&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/-jira-0052CC?style=flat-square&logo=jira&labelColor=grey&logoColor=white)
 ![Amazon AWS Badge](https://img.shields.io/badge/-amazon--aws-232F3E?style=flat-square&logo=amazon-aws&labelColor=grey&logoColor=white)
-![OpenVPN Badge](https://img.shields.io/badge/-openvpn-EA7E20?style=flat-square&logo=openvpn&labelColor=white)
+![OpenVPN Badge](https://img.shields.io/badge/-openvpn-EA7E20?style=flat-square&logo=openvpn&labelColor=grey&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&labelColor=grey&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&labelColor=grey&logoColor=white)
 
