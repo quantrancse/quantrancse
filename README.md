@@ -85,6 +85,6 @@
 - ⚡️ I work on the system to avoid programming.
 - ⚡️ I began using Linux when I was 15.
 - ⚡️ I'm a fan of AMD and an anti-fan of Apple.
-- ⚡️ I've played League of Legends for 9 years.
+- ⚡️ I've played League of Legends for over 9 years.
 - ⚡️ I enjoy cooking.
 
