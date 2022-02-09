@@ -76,6 +76,7 @@
 
 #### Mouse
 - 🖱️ Razer DeathAdder V2 Mini
+- 🖱️ Logitech G Pro Hero
 - 🖱️ Fuhlen G90 EVO
 
 #### Monitor
