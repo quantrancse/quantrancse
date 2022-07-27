@@ -5,7 +5,7 @@
 ### BIO
 
 - 🏢 I'm currently working at **[Novobi](https://novobi.com)** as a DevOps Engineer.
-- 🎓 I graduated with a bachelor's degree in **Computer Science** from Ho Chi Minh City University of Technology in Vietnam.
+- 🎓 I graduated with a Bachelor of Engineering in **Computer Science** from Ho Chi Minh City University of Technology in Vietnam.
 - 🌱 I’m currently learning **System Engineering** and **DevOps Engineering**.
 - 🔥 I have a huge passion for operating systems: Windows, Android, and especially Linux.
 - 🔧 I love customizing and personalizing the Linux desktop environment.
@@ -86,6 +86,6 @@
 - ⚡️ I work on the system to avoid programming.
 - ⚡️ I began using Linux when I was 15.
 - ⚡️ I'm a fan of AMD and an anti-fan of Apple.
-- ⚡️ I've played League of Legends for over 9 years.
+- ⚡️ I've played League of Legends for 10 years.
 - ⚡️ I enjoy cooking.
 
