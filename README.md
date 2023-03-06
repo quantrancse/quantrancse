@@ -5,7 +5,7 @@
 ### BIO
 
 - 🏢 I'm currently working at **[Novobi](https://novobi.com)** as a DevOps Engineer.
-- 🎓 I graduated with a Bachelor of Engineering in **Computer Science** from Ho Chi Minh City University of Technology in Vietnam.
+- 🎓 I graduated with a Very Good degree in Bachelor of Engineering in **Computer Science** from Ho Chi Minh City University of Technology in Vietnam.
 - 🌱 I’m currently learning **System Engineering** and **DevOps Engineering**.
 - 🔥 I have a huge passion for operating systems: Windows, Android, and especially Linux.
 - 🔧 I love customizing and personalizing the Linux desktop environment.
