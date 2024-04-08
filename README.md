@@ -10,8 +10,6 @@
 - 🔥 I have a huge passion for operating systems: Windows, Android, and especially Linux.
 - 🔧 I love customizing and personalizing the Linux desktop environment.
 - 😄 Pronouns: He/Him
-- 💬 Ask me anything i.e personal questions, work, life, whatever,... or ask me about Windows, Android, and Linux.
-- 📫 Reach me: [@quantrancse](https://quantrancse.github.io/contacts/)
 
 ### OS, Languages, Technologies and IDEs
 
