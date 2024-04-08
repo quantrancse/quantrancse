@@ -4,7 +4,7 @@
 
 ### BIO
 
-- 🏢 I'm currently working at **[Novobi](https://novobi.com)** as a DevOps Engineer.
+- 🏢 I'm currently working at **[Novobi](https://novobi.com)** as a Senior DevOps Engineer.
 - 🎓 I graduated with a Very Good degree in Bachelor of Engineering in **Computer Science** from Ho Chi Minh City University of Technology in Vietnam.
 - 🌱 I’m currently learning **System Engineering** and **DevOps Engineering**.
 - 🔥 I have a huge passion for operating systems: Windows, Android, and especially Linux.
@@ -69,6 +69,7 @@
 - 💻 **Asus ROG Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIe G3x4 NVMe)
 - 💻 **Lenovo ThinkPad T480** (Intel Core i5 8350U / Intel UHD Graphics 620 / 16GB DDR4 2400MHz / 256GB SSD M.2 PCIe TCG Opal Encryption 2 NVMe)
 - 💻 **Lenovo ThinkPad X250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
+- 📱 **Xiaomi Redmi Note 13 Pro** (Qualcomm Snapdragon 7s Gen 2 / 8GB LPDDR4X / 128GB UFS 2.2)
 - 📱 **Xiaomi Redmi Note 10 Pro** (Qualcomm Snapdragon 732G / 8GB LPDDR4X / 128GB UFS 2.2)
 - 📖 **Kindle** (10th Generation / 8GB)
 
@@ -85,9 +86,8 @@
 - 🖥️ AOC 24G2 24" IPS 144Hz
 
 ### FUN FACTS
-- ⚡️ I work on the system to avoid programming.
 - ⚡️ I began using Linux when I was 15.
 - ⚡️ I'm a fan of AMD and an anti-fan of Apple.
-- ⚡️ I've played League of Legends for 10 years.
-- ⚡️ I enjoy cooking.
+- ⚡️ I've played League of Legends for 12 years.
+- ⚡️ I enjoy cooking and driving.
 
