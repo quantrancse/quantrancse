@@ -38,7 +38,9 @@
 *   **CPU:** AMD Ryzen 5 7600
 *   **GPU:** ASUS Dual GeForce RTX 4060 White OC Edition 8GB
 *   **RAM:** Adata XPG Lancer 32GB (2x16GB) 6000Mhz DDR5 White CL30 AMD EXPO
-*   **Storage:** SSD Kingston NV3 1TB M.2 PCIe Gen4 x4 NVMe
+*   **Storage:**
+    *   **Blazing M.2 Socket:** SSD Kingston NV3 1TB PCIe Gen4 x4 NVMe
+    *   **Hyper M.2 Socket:** SSD Western Digital Blue SN5000 1TB PCIe Gen4 x4 NVMe
 *   **PSU:** Gigabyte P650SS 650W 80 Plus Silver ICE
 *   **AIO CPU Cooler:** Thermalright Frozen Notte 240 WHITE ARGB
 *   **Case fans:** x2 Jungle Leopard 6 Pro White
@@ -46,7 +48,7 @@
 
 #### Laptop
 
-*   💻 **Asus ROG Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIe G3x4 NVMe)
+*   💻 **Asus ROG Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q 6GB / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIe G3x4 NVMe)
 *   💻 **Lenovo ThinkPad X250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
 
 #### Phone
