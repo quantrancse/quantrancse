@@ -48,7 +48,7 @@
 
 #### Laptop
 
-*   💻 **Asus ROG Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q 6GB / 16GB DDR4 3200MHz / 1TB SSD M.2 PCIe G3x4 NVMe)
+*   💻 **Asus ROG Zephyrus G15** (AMD Ryzen 7 4800HS / Nvidia GTX 1660 Ti Max-Q 6GB / 40GB DDR4 3200MHz / 1TB SSD M.2 PCIe G3x4 NVMe)
 *   💻 **Lenovo ThinkPad X250** (Intel Core i5 5200U / Intel HD Graphics 5500 / 4GB DDR3L 1600MHz / 128GB SSD SATA 3)
 
 #### Phone
@@ -64,7 +64,9 @@
 
 #### Mouse
 
+*   🖱️ Razer Viper V3 Pro
 *   🖱️ Razer DeathAdder V2 Mini
+*   🖱️ Attack Shark R1
 *   🖱️ Logitech G Pro Hero
 
 #### Monitor
