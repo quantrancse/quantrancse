@@ -61,6 +61,7 @@
 
 *   ⌨️ Leopold FC660M PD Blue-Grey Cherry MX Red Switch
 *   ⌨️ AKKO 3068 World Tour Tokyo AKKO Pink Switch
+*   ⌨️ AULA WIN68 HE MAX Edition (Gray + White + Blue) Leopog Wing Chun Linear Magnetic Switch
 
 #### Mouse
 
