@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a DevOps Engineer working in Ho Chi Minh City, Vietnam.
+#### I'm a DevOps/System Engineer working in Ho Chi Minh City, Vietnam.
 
 ### BIO
 
